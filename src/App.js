@@ -19,8 +19,7 @@ function App() {
             <Post postName="hello world 2" postBody="this is the hellow world article2 "/>
             <Post postName="hello world" postBody="this is the hellow world article"/>
             <Post postName="Post 3" postBody="this is the hellow world article"/>
-          
-           
+
           </div>
 
           <div style={{ width: "30%", marginTop: "25px" }}>
